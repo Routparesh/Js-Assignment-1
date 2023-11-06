@@ -1,0 +1,10 @@
+const array = ["Smartphone",
+"Running Shoes",
+"Coffee Maker",
+"Wireless Headphones",
+"Digital Camera",
+"Fitness Tracker",
+"Cookware Set",
+"Novel Book",
+"Hiking Backpack",
+"Smart Thermostat"]

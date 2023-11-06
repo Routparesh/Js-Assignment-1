@@ -1,0 +1,1 @@
+const student = {1:'rocky',2:'suresh',3:'prakash',4:'raghu',5:'sekhar'}
